@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/PrasunDatta/PrasunDatta/blob/main/MyGif.gif)]
+![MasterHead](https://github.com/PrasunDatta/PrasunDatta/blob/main/MyGif.gif)
 <h1 align="center">Hi 👋, I'm Prasun Datta</h1>
 <h3 align="center">An enthusiast of "Signal Processing", "Deep Learning", "Machine Learning", "Data-Science"</h3>
 <img align="right" alt = "Deep Learning" width="400" src="https://editor.analyticsvidhya.com/uploads/95577cnn2.gif">
