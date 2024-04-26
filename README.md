@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Applications of Deep Learning in Signal Processing domain, Theories & interpretation of Deep-learning,**
 
-- 📫 How to reach me **prasundatta.buet@gmail.com**
+- 📫 How to reach me **pdatta2@ncsu.edu** **prasundatta.buet@gmail.com**
 
 - ⚡ Fun fact **In my opinion, I am an ardent fan of mountain and loves to appease my soul with the magnanimity of these mountains.**
 
