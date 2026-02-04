@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/orphic_prasun" target="blank"><img src="https://img.shields.io/twitter/follow/orphic_prasun?logo=twitter&style=for-the-badge" alt="orphic_prasun" /></a> </p>
 
-- 🔭 I’m currently working on [SIIM-ISIC Melanoma(Skin-Cancer) Classification: Identifying melanoma in lesion images.](kaggle.com/c/siim-isic-melanoma-classification)
-
 - 🌱 I’m currently learning **Computer Vision, NLP, Visual Transformer.**
 
 - 💬 Ask me about **Applications of Deep Learning in Signal Processing domain, Theories & interpretation of Deep-learning,**
